@@ -47,5 +47,5 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 ## Acknowledgments
 
-- Developed by Somen Senapati and team members.
+- Developed by Somen Senapati and team members : Abhijit Sengupta , Anurag Singh , Avinash Mahapatra
 - Special thanks to CHATAI for assistance during development.
